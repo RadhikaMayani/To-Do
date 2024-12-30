@@ -1,7 +1,7 @@
 import { useState, useId, useContext } from "react"
 import { ToDoContext } from "./context/ToDoContext"
-import ToDoForm from "./components/toDoForm"
-import ToDoItem from "./components/ToDoItem"
+import ToDoForm from "./components/ToDoForm.jsx"
+import ToDoItem from "./components/ToDoItem.jsx"
 
 function App() {
   const { todos } = useContext(ToDoContext)

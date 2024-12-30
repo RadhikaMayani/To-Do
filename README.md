@@ -12,14 +12,13 @@ A simple yet powerful To-Do application built using **React**. This app allows u
 - **Edit Tasks**: Update existing tasks effortlessly.
 - **Delete Tasks**: Remove tasks you no longer need.
 - **Mark Complete**: Check off completed tasks with a single click.
-- **Responsive Design**: Fully responsive for use on desktops, tablets, and mobile devices.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, TailwindCSS
-- **State Management**: React `useState`
+- **State Management**: React `useState`, `useContext`
 - **Build Tool**: Vite
 - **Version Control**: Git and GitHub
 

@@ -1,6 +1,6 @@
 # 📝 React To-Do App
 
-Check out the live demo of the To-Do App [here]([https://your-live-demo-link.com](https://radhikamayani.github.io/To-Do/)).
+Check out the live demo of the To-Do App [here](https://radhikamayani.github.io/To-Do/)).
 
 A simple yet powerful To-Do application built using **React**. This app allows users to manage tasks effectively with features such as adding, updating, deleting, and marking tasks as complete.
 
